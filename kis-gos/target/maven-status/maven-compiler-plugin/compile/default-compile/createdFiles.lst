@@ -1,0 +1,7 @@
+imagegradient\GradientState.class
+image\ImageMatrix.class
+imagegradient\GradientSearcher.class
+image\Pixel.class
+image\Image.class
+imagegradient\GradientSearcher$GradientValueAtAxisPixel.class
+ApplicationBootstrap.class
